@@ -1,0 +1,8 @@
+C:\EPAM\C#\efecPrac\efecPrac\bin\Debug\efecPrac.exe.config
+C:\EPAM\C#\efecPrac\efecPrac\bin\Debug\efecPrac.exe
+C:\EPAM\C#\efecPrac\efecPrac\bin\Debug\efecPrac.pdb
+C:\EPAM\C#\efecPrac\efecPrac\obj\Debug\efecPrac.csproj.AssemblyReference.cache
+C:\EPAM\C#\efecPrac\efecPrac\obj\Debug\efecPrac.csproj.SuggestedBindingRedirects.cache
+C:\EPAM\C#\efecPrac\efecPrac\obj\Debug\efecPrac.csproj.CoreCompileInputs.cache
+C:\EPAM\C#\efecPrac\efecPrac\obj\Debug\efecPrac.exe
+C:\EPAM\C#\efecPrac\efecPrac\obj\Debug\efecPrac.pdb

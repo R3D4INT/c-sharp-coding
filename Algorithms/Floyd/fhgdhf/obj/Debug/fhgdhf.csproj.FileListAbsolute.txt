@@ -1,0 +1,8 @@
+C:\EPAM\C#\fhgdhf\fhgdhf\bin\Debug\fhgdhf.exe.config
+C:\EPAM\C#\fhgdhf\fhgdhf\bin\Debug\fhgdhf.exe
+C:\EPAM\C#\fhgdhf\fhgdhf\bin\Debug\fhgdhf.pdb
+C:\EPAM\C#\fhgdhf\fhgdhf\obj\Debug\fhgdhf.csproj.AssemblyReference.cache
+C:\EPAM\C#\fhgdhf\fhgdhf\obj\Debug\fhgdhf.csproj.SuggestedBindingRedirects.cache
+C:\EPAM\C#\fhgdhf\fhgdhf\obj\Debug\fhgdhf.csproj.CoreCompileInputs.cache
+C:\EPAM\C#\fhgdhf\fhgdhf\obj\Debug\fhgdhf.exe
+C:\EPAM\C#\fhgdhf\fhgdhf\obj\Debug\fhgdhf.pdb
