@@ -1,0 +1,8 @@
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\bin\Debug\Homework8 Abstract classes and Interfaces.exe.config
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\bin\Debug\Homework8 Abstract classes and Interfaces.exe
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\bin\Debug\Homework8 Abstract classes and Interfaces.pdb
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\obj\Debug\Homework8 Abstract classes and Interfaces.csproj.AssemblyReference.cache
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\obj\Debug\Homework8 Abstract classes and Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\obj\Debug\Homework8 Abstract classes and Interfaces.csproj.CoreCompileInputs.cache
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\obj\Debug\Homework8 Abstract classes and Interfaces.exe
+C:\EPAM\C#\Homework8 Abstract classes and Interfaces\Homework8 Abstract classes and Interfaces\obj\Debug\Homework8 Abstract classes and Interfaces.pdb
