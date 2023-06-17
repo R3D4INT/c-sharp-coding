@@ -1,0 +1,8 @@
+C:\EPAM\C#\Homework\Homework\bin\Debug\Homework.exe.config
+C:\EPAM\C#\Homework\Homework\bin\Debug\Homework.exe
+C:\EPAM\C#\Homework\Homework\bin\Debug\Homework.pdb
+C:\EPAM\C#\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\EPAM\C#\Homework\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\EPAM\C#\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\EPAM\C#\Homework\Homework\obj\Debug\Homework.exe
+C:\EPAM\C#\Homework\Homework\obj\Debug\Homework.pdb
